@@ -20,6 +20,7 @@ I am Charles Buffington II, a self-taught software engineer who loves all things
 <img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 
 <br>
+<br>
 
 ## Connect with me
 
