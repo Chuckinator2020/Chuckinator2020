@@ -5,6 +5,7 @@ I am Charles Buffington II, a self-taught software engineer who loves all things
 - FIRST Robotics alumni
 - Obsessed with software architecture and clean code
 - Currently designing a system that helps KU students organize and interact with each other
+- Currently building my resume projects
 
 ## Technologies
 <img align="left" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
